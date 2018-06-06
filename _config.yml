@@ -12,10 +12,6 @@ description:      'C# Programmer and established weeaboo. I'll write about some 
 url:              https://blog.bin.moe
 baseurl:          /
 
-pages:
-  - title: Website
-  - url: https://bin.moe
-
 author:
   name:           'bin'
   url:            https://twitter.com/binuwu
