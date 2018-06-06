@@ -1,3 +1,7 @@
+# bin's blog
+
+hi yes this is my blog i run on hyde use the readme below whatever ect its fine xd
+
 # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
