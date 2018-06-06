@@ -20,16 +20,17 @@ Here's a list of projects I'm working on:
 
 Here's my specs for development:
 
-  - CPU: AMD FX-6300 6 core processor
-  - RAM: 20 GB DDR3
-  - GPU: ASUS GTX 1060 6GB GDDR5 Overclocked Edition
-  - IDE: Visual Studio 2017 && Visual Studio Code (somtimes Vim as well)
-  - Runtime: .NET Core 2.X \|\| Node.js 8.x
-  - Terminal Client: Bitvise && Termius
-  - HTTP Inspector: Fiddler && Postman
-  - Server: Ubuntu 16.04 LTS
-  - Storage: Amazon S3 'STANDARD' storage
-  - CDN: Amazon CloudFront && CloudFlare
-  - Git: Self-hosted GitLab EE instance && GitHub
+  - **CPU:** AMD FX-6300 6 core processor
+  - **RAM:** 20 GB DDR3
+  - **GPU:** ASUS GTX 1060 6GB GDDR5 Overclocked Edition
+  - **IDE:** Visual Studio 2017 && Visual Studio Code (somtimes Vim as well)
+  - **Runtime:** .NET Core 2.X \|\| Node.js 8.x
+  - **Terminal Client:** Bitvise && Termius
+  - **HTTP Inspector:** Fiddler && Postman
+  - **Operating System:** Windows 10
+  - **Server:** Ubuntu 16.04 LTS
+  - **Storage:** Amazon S3 'STANDARD' storage
+  - **CDN:** Amazon CloudFront && CloudFlare
+  - **Git:** Self-hosted GitLab EE instance && GitHub
   
 Thanks for reading!
