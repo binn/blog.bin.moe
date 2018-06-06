@@ -24,7 +24,7 @@ Here's my specs for development:
   - RAM: 20 GB DDR3
   - GPU: ASUS GTX 1060 6GB GDDR5 Overclocked Edition
   - IDE: Visual Studio 2017 && Visual Studio Code (somtimes Vim as well)
-  - Runtime: .NET Core 2.X || Node.js 8.x
+  - Runtime: .NET Core 2.X \|| Node.js 8.x
   - Terminal Client: Bitvise && Termius
   - HTTP Inspector: Fiddler && Postman
   - Server: Ubuntu 16.04 LTS
