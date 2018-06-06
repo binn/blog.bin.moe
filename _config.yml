@@ -12,13 +12,10 @@ description:      'C# programmer and established weeaboo. I''ll write about some
 url:              https://blog.bin.moe
 baseurl:          /
 
-pages:
- - title: Website
- - url: https://bin.moe
-
 author:
   name:           'bin'
   url:            https://twitter.com/binuwu
+  github:         https://github.com/binsenpai
 
 paginate:         5
 
