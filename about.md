@@ -29,7 +29,7 @@ Here's my specs for development:
   - **HTTP Inspector:** Fiddler && Postman
   - **Operating System:** Windows 10
   - **Server:** Ubuntu 16.04 LTS
-  - **Storage:** Amazon S3 'STANDARD' storage
+  - **Storage:** Amazon S3 'REDUCED_REDUNDANCY' storage
   - **CDN:** Amazon CloudFront && CloudFlare
   - **Version Control:** VSTFS and Git
   - **Git:** Self-hosted GitLab EE instance && GitHub
