@@ -3,28 +3,33 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi there! My name is Sarmad Wahab, but I like to go by **bin**. I'm a C# developer and I do most of my work in web development. My specific areas of interest are .NET Core and ASP.NET Core. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I also know JavaScript and I'm getting into Java and TypeScript. I still try to prefer C# in any situation. 
 
-There are currently two themes built on Poole:
+You can view my personal web page at https://bin.moe, you can find some contact information there as well as links to other social media.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Projects
+Here's a list of projects I'm working on:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+  - [Floatr](https://floatr.co) - Simple object hosting service with vanity URLs.
+  - [Kibii TV](https://beta.kibii.tv) - Anime streaming site.
+  - Kikan - Identity service (SSO) for all of Kibii.
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+Here's my specs for development:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
+  - CPU: AMD FX-6300 6 core processor
+  - RAM: 20 GB DDR3
+  - GPU: ASUS GTX 1060 6GB GDDR5 Overclocked Edition
+  - IDE: Visual Studio 2017 && Visual Studio Code (somtimes Vim as well)
+  - Runtime: .NET Core 2.X || Node.js 8.x
+  - Terminal Client: Bitvise && Termius
+  - HTTP Inspector: Fiddler && Postman
+  - Server: Ubuntu 16.04 LTS
+  - Storage: Amazon S3 'STANDARD' storage
+  - CDN: Amazon CloudFront && CloudFlare
+  - Git: Self-hosted GitLab EE instance && GitHub
+  
 Thanks for reading!
