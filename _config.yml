@@ -8,9 +8,13 @@ permalink:        pretty
 # Setup
 title:            bin
 tagline:          'c# programmer - weeb'
-description:      'C# Programmer and established weeaboo. I'll write about some of my adventures here and there, and also some neat tips/tricks. Check out my website <a href="https://bin.moe">here.</a>'
+description:      'C# Programmer and established weeaboo. I''ll write about some of my adventures here and there, and also some neat tips/tricks. Check out my website <a href="https://bin.moe">here.</a>'
 url:              https://blog.bin.moe
 baseurl:          /
+
+pages:
+ - title: Website
+ - url: https://bin.moe
 
 author:
   name:           'bin'
