@@ -27,7 +27,8 @@
       {% endfor %}
       
       <a class="sidebar-nav-item" href="https://bin.moe">Website</a>
-      <a class="sidebar-nav-item" href="{{ author.url }}">Twitter</a>
+      <a class="sidebar-nav-item" href="{{ site.author.url }}">Twitter</a>
+      <a class="sidebar-nav-item" href="{{ site.author.github }}">GitHub</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
