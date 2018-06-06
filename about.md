@@ -5,7 +5,7 @@ title: About
 
 Hi there! My real name is *Sarmad Wahab*, but I prefer to go by **bin**. I'm a 16 year old C# developer weeb male living in New York. I do most of my work in web development. My specific areas of interest are .NET Core and ASP.NET Core. I also like a good haul of modern physics and astronomy. My main interest is anime and Japan.
 
-I also know JavaScript and I'm getting into Java and TypeScript. I still try to prefer C# in any situation. 
+I also know JavaScript and I'm still getting familiar Java and TypeScript. I still try to prefer C# in any situation. 
 
 You can view my personal web page at https://bin.moe, you can find some contact information there as well as links to other social media.
 
