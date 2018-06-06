@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi there! My name is Sarmad Wahab, but I like to go by **bin**. I'm a C# developer and I do most of my work in web development. My specific areas of interest are .NET Core and ASP.NET Core. 
+Hi there! My real name is *Sarmad Wahab*, but I prefer to go by **bin**. I'm a 16 year old C# developer weeb male living in New York. I do most of my work in web development. My specific areas of interest are .NET Core and ASP.NET Core. I also like a good haul of modern physics and astronomy. My main interest is anime and Japan.
 
 I also know JavaScript and I'm getting into Java and TypeScript. I still try to prefer C# in any situation. 
 
